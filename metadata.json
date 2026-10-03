@@ -1,0 +1,6 @@
+{
+  "name": "Loop - In-Browser AI Agent",
+  "description": "Loop is a tiny on-device AI agent (50M parameters) by ZEROLABS that runs 100% in your browser using WebGPU and WASM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

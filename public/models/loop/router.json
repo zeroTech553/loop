@@ -1,0 +1,20 @@
+{
+  "buckets": 32768,
+  "rdim": 64,
+  "rhid": 128,
+  "classes": [
+    "chat",
+    "search",
+    "calc",
+    "time"
+  ],
+  "order": [
+    "E",
+    "W1",
+    "b1",
+    "W2",
+    "b2"
+  ],
+  "dtype": "float32-le",
+  "router_conf": 0.95
+}
